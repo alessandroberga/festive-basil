@@ -4,7 +4,7 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
+        label: I NOSTRI SERVIZI
         url: /generic
     component: Intro
     content: >-
