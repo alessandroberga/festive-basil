@@ -16,6 +16,12 @@ sections:
         url: /tempus-etiam/
     component: Intro
     content: >-
+      **STUDIO**
+
+
+      **DOTT.ANDREA BERGAMASCO**
+
+
       **REVISORE LEGALE**
 
 
@@ -27,7 +33,7 @@ sections:
       trent’anni di attività permettono di garantire ai propri Clienti un
       supporto professionale in ambito contabile e fiscale.
     img_path: /images/sito.jpg
-    title: Studio                     Dott. Andrea Bergamasco
+    title: '#'
     type: intro
 menus:
   main:
