@@ -19,7 +19,7 @@ sections:
       Esperienze significative e competenze tecniche maturate e perfezionate in
       trent’anni di attività permettono di garantire ai propri Clienti un
       supporto professionale in ambito contabile e fiscale.
-    img_path: images/pic01.jpg
+    img_path: /images/sito.jpg
     title: Studio Dott. Andrea Bergamasco
     type: intro
 menus:
