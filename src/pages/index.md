@@ -12,6 +12,9 @@ sections:
         url: /consequat-dolor/
     component: Intro
     content: >-
+      **REVISORE LEGALE**
+
+
       Lo studio del Dott. Andrea Bergamasco nasce a Vicenza agli inizi degli
       anni novanta.
 
