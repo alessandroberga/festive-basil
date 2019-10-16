@@ -7,12 +7,16 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: >-
+      Lo studio del Dott. Andrea Bergamasco nasce a Vicenza agli inizi degli
+      anni novanta.
+
+
+      Esperienze significative e competenze tecniche maturate e perfezionate in
+      trent’anni di attività permettono di garantire ai propri Clienti un
+      supporto professionale in ambito contabile e fiscale.
     img_path: images/pic01.jpg
-    title: Reflex
+    title: Studio Dott. Andrea Bergamasco
     type: intro
   - actions:
       - is_primary: false
