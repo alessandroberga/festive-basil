@@ -6,6 +6,10 @@ sections:
         is_scrolly: false
         label: I NOSTRI SERVIZI
         url: /generic
+      - is_primary: false
+        is_scrolly: false
+        label: DOVE SIAMO
+        url: /consequat-dolor/
     component: Intro
     content: >-
       Lo studio del Dott. Andrea Bergamasco nasce a Vicenza agli inizi degli
