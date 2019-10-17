@@ -40,9 +40,3 @@ module.exports = {
         }
     ]
 };
-module.exports = {
-  siteMetadata: {
-    siteUrl: `https://www.studio-bergamasco.it`,
-  },
-  plugins: [`gatsby-plugin-sitemap`],
-}
