@@ -40,3 +40,10 @@ module.exports = {
         }
     ]
 };
+module.exports = {
+  siteMetadata: {
+    title: 'festive-basil',
+    siteUrl: 'https://www.studio-bergamasco.it',
+  },
+  plugins: ['gatsby-plugin-sitemap'],
+}
