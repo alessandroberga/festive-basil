@@ -28,10 +28,3 @@ export default class Body extends React.Component {
         );
     }
 }
-<CookieConsent
-          location="bottom"
-          buttonText="Accept"
-          declineButtonText="Decline"
-          cookieName="gatsby-gdpr-google-analytics">
-This site uses cookies ...
-</CookieConsent>
