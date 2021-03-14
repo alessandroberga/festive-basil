@@ -1,6 +1,6 @@
 ---
 title: DOVE SIAMO
-img_path: ''
+img_path: ""
 menus:
   main:
     title: DOVE SIAMO
@@ -24,11 +24,11 @@ Mercoledì	     8:30AM–12:30PM, 3–6PM
 ```
 
 ```
-Giovedì	         8:30AM–12:30PM, 3–6PM
+Giovedì	         8:30AM–12:30PM, 3–6PM
 ```
 
 ```
-Venerdì	         8:30AM–12:30PM
+Venerdì	         8:30AM–12:30PM,
 ```
 
 ```
