@@ -34,9 +34,8 @@
     "rehype-react": "^3.0.2",
     "sass": "^1.63.6",
     "sprintf-js": "^1.1.2",
-    "@babel/runtime": "^7.20.0",  // Aggiunto
-  },
+    "@babel/runtime": "^7.20.0", 
   "devDependencies": {
-    "@babel/plugin-transform-runtime": "^7.20.0"  // Aggiunto
+    "@babel/plugin-transform-runtime": "^7.20.0"  
   }
 }
