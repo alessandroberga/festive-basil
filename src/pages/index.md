@@ -5,15 +5,15 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: I NOSTRI SERVIZI
-        url: /generic
+        url: /i-nostri-servizi
       - is_primary: false
         is_scrolly: false
         label: DOVE SIAMO
-        url: /consequat-dolor/
+        url: /dove-siamo
       - is_primary: false
         is_scrolly: false
         label: CONTATTI
-        url: /tempus-etiam/
+        url: /contatti
     component: Intro
     content: >-
       **REVISORE LEGALE**
