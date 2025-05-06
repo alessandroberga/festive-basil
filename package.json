@@ -31,5 +31,6 @@
     "gatsby-plugin-sass": "^5.13.0",
     "sass": "^1.63.6",
     "sprintf-js": "^1.1.2"
+    "gatsby-remark-component": "^2.0.0",
   }
 }
