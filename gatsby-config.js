@@ -12,11 +12,7 @@ module.exports = {
             },
         },
         {
-            resolve: `gatsby-plugin-stackbit-static-sass`,
-            options: {
-                inputFile: `${__dirname}/src/sass/main.scss`,
-                outputFile: `${__dirname}/public/assets/css/main.css`
-            },
+           `gatsby-plugin-sass`,           
         },
         {
             resolve: `gatsby-transformer-remark`,
