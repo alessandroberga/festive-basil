@@ -12,7 +12,6 @@ module.exports = {
             },
         },
         `gatsby-plugin-sass`, // ✅ QUI: stringa semplice, non oggetto
-        {
             resolve: `gatsby-transformer-remark`,
             options: {
                 plugins: [`gatsby-remark-component`],
@@ -29,7 +28,7 @@ module.exports = {
             options: {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
-                menus: require('./src/data/menus.json`),
+                menus: require('./src/data/menus.json'),
             },
         },
     ],
