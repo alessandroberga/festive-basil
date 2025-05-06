@@ -1,9 +1,17 @@
 [build]
-publish = "public"
-command = "./stackbit-build.sh"
+  publish = "public"
+  command = "./stackbit-build.sh"
+
+[build.environment]
+  NODE_VERSION = "18"
+  NPM_CONFIG_LEGACY_PEER_DEPS = "true"
+  GATSBY_EXPERIMENTAL_PLUGIN_OPTION_VALIDATION = "true"
+
 [[plugins]]
-package = "@netlify/plugin-sitemap"
+  package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-  buildDir = "public"
-  
+    buildDir = "public"
+
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
