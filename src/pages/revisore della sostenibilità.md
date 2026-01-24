@@ -6,11 +6,11 @@ subtitle: >-
  
   *Affidabilità, trasparenza e conformità normativa per la tua rendicontazione ESG.
 
- * Il servizio di revisione del Bilancio di Sostenibilità offre una verifica indipendente
+  *Il servizio di revisione del Bilancio di Sostenibilità offre una verifica indipendente
   delle informazioni ESG, garantendo che i dati comunicati siano corretti, completi
   e conformi ai principali standard e alla normativa vigente.
 
- * Attraverso un approccio strutturato e imparziale, supportiamo le organizzazioni nel
+  *Attraverso un approccio strutturato e imparziale, supportiamo le organizzazioni nel
   rafforzare la credibilità verso investitori, stakeholder e mercato, riducendo il
   rischio reputazionale e di non conformità.
 
