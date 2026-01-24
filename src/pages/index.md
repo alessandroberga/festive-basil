@@ -2,7 +2,7 @@
 title: Home
 sections:
   - actions:
-      - is_primary: true
+      - is_primary: false
         is_scrolly: false
         label: REVISORE DELLA SOSTENIBILITÀ
         url: /revisore%20della%20sostenibilità
