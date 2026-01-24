@@ -14,7 +14,7 @@ subtitle: >-
   rafforzare la credibilità verso investitori, stakeholder e mercato, riducendo il
   rischio reputazionale e di non conformità.
 
-  COSA INCLUDE IL SERVIZIO:
+   COSA INCLUDE IL SERVIZIO:
   
   * Verifica dell’accuratezza e coerenza dei dati ESG
    
@@ -26,7 +26,7 @@ subtitle: >-
    
   * Emissione di una relazione di revisione indipendente
 
-  I BENEFICI PER L'AZIENDA:
+   I BENEFICI PER L'AZIENDA:
   
   * Maggiore credibilità e fiducia verso il mercato
    
