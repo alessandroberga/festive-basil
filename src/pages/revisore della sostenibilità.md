@@ -4,7 +4,7 @@ title: "REVISORE DELLA SOSTENIBILITÀ"
 subtitle: >-
   Revisione del Bilancio di Sostenibilità
  
-  * Affidabilità, trasparenza e conformità normativa per la tua rendicontazione ESG.
+  Affidabilità, trasparenza e conformità normativa per la tua rendicontazione ESG.
 
   Il servizio di revisione del Bilancio di Sostenibilità offre una verifica indipendente
   delle informazioni ESG, garantendo che i dati comunicati siano corretti, completi
