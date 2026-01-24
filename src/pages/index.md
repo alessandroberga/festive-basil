@@ -5,7 +5,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: REVISORE DELLA SOSTENIBILITÀ
-        url: /revisore-della-sostenibilita
+        url: /revisore%20della%20sostenibilità
 
       - is_primary: false
         is_scrolly: false
