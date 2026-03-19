@@ -45,7 +45,7 @@
     "cookie": "1.1.1",
     "css-minimizer-webpack-plugin": "8.0.0",
     "file-type": "16.5.4",
-    "got": "14.6.6",
+    "got": "11.8.6",
     "immutable": "5.1.5",
     "postcss": "8.5.8",
     "resolve-url-loader": "5.0.0",
